@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mkdir qui6
+touch quiz6.txt
+mv quiz6.txt.quiz6/quiz6.txt
